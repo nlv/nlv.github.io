@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Потребительский Кооператив «Доверие»</title>
-    <link>https://example.org/</link>
-    <description>Recent content on Потребительский Кооператив «Доверие»</description>
+    <title>Cpps on Потребительский Кооператив «Доверие»</title>
+    <link>https://example.org/cpp/</link>
+    <description>Recent content in Cpps on Потребительский Кооператив «Доверие»</description>
     <generator>Hugo</generator>
     <language>ru-ru</language>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/cpp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ЦПП Родная Земля</title>
       <link>https://example.org/cpp/rzemla/</link>

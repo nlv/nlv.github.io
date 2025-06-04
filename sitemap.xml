@@ -4,8 +4,12 @@
   <url>
     <loc>https://example.org/categories/</loc>
   </url><url>
+    <loc>https://example.org/cpp/</loc>
+  </url><url>
     <loc>https://example.org/tags/</loc>
   </url><url>
     <loc>https://example.org/</loc>
+  </url><url>
+    <loc>https://example.org/cpp/rzemla/</loc>
   </url>
 </urlset>
