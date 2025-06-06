@@ -2,17 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Потребительский Кооператив «Доверие»</title>
-    <link>https://example.org/</link>
+    <link>https://nlv.github.io/</link>
     <description>Recent content on Потребительский Кооператив «Доверие»</description>
     <generator>Hugo</generator>
     <language>ru-ru</language>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nlv.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ЦПП Клуб любителей путешествий</title>
+      <link>https://nlv.github.io/cpp/klubput/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nlv.github.io/cpp/klubput/</guid>
+      <description>Развитие доступного туризма по стране (и за ее пределами) для пайщиков ПК &amp;ldquo;Доверие&amp;rdquo;.</description>
+    </item>
     <item>
       <title>ЦПП Родная Земля</title>
-      <link>https://example.org/cpp/rzemla/</link>
+      <link>https://nlv.github.io/cpp/rzemla/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/cpp/rzemla/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://example.org/img/cpp/rzemla.jpeg&#34; alt=&#34;img/cpp/rzemla.jpeg&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;описание&#34;&gt;Описание:&lt;/h2&gt;&#xA;&lt;p&gt;Целевая потребительская программа ПК &amp;ldquo;Доверие&amp;rdquo; &amp;ldquo;Родная земля&amp;rdquo;, осуществляется на основании ФЗ 3085-1, ГК РФ, положении о программе, устава ПК, гражданско-правовых, а также, внутренних документов ПК.&lt;/p&gt;&#xA;&lt;h2 id=&#34;цели-программы&#34;&gt;Цели программы:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Организация и развитие экопоселений на территории Нижегородской области и за ее пределами, для пайщиков ПК, желающих принять участие в программе;&lt;/li&gt;&#xA;&lt;li&gt;Предоставление пайщикам ПК, а также участникам программы возможности участвовать в организации и развитии экопоселений;&lt;/li&gt;&#xA;&lt;li&gt;Развитие сельхоз угодий, в форме личных подсобных хозяйств, тепличных комплексов и т.п., для обеспечения пайщиков ПК экологически чистой сельхоз продукцией;&lt;/li&gt;&#xA;&lt;li&gt;Развитие альтернативной энергетики, для обеспечения экопоселений энергетической автономией;&lt;/li&gt;&#xA;&lt;li&gt;Предоставление возможности пайщикам, участникам данной программы, и инвесторам получения потребительских и иных выгод от участия в программе;&lt;/li&gt;&#xA;&lt;li&gt;Формирование целевых фондов, обозначенных в положении о программе;&lt;/li&gt;&#xA;&lt;li&gt;Привлечение большего количества пайщиков для участия в программе, способами, описанными в положении о программе.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>https://nlv.github.io/cpp/rzemla/</guid>
+      <description>Организация и развитие экопоселений на территории Нижегородской области и за ее пределами.</description>
+    </item>
+    <item>
+      <title>ЦПП Стол заказов</title>
+      <link>https://nlv.github.io/cpp/stolzakaz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nlv.github.io/cpp/stolzakaz/</guid>
+      <description>Обеспечение пайщиков ПК &amp;ldquo;Доверие&amp;rdquo; продовольственными и непродовольственными товарами по ценам ниже рыночных, по принципу совместной закупки, а также, доставка пайщикам фермерской и экологически чистой продукции.</description>
     </item>
   </channel>
 </rss>

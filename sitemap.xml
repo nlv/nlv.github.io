@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://nlv.github.io/categories/</loc>
   </url><url>
-    <loc>https://example.org/cpp/</loc>
+    <loc>https://nlv.github.io/cpp/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://nlv.github.io/tags/</loc>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://nlv.github.io/</loc>
   </url><url>
-    <loc>https://example.org/cpp/rzemla/</loc>
+    <loc>https://nlv.github.io/cpp/klubput/</loc>
+  </url><url>
+    <loc>https://nlv.github.io/cpp/rzemla/</loc>
+  </url><url>
+    <loc>https://nlv.github.io/cpp/stolzakaz/</loc>
   </url>
 </urlset>
